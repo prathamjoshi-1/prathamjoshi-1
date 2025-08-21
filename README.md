@@ -33,8 +33,8 @@ Hi 👋, I'm **Pratham Joshi**
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="50">C</img>
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" /></img>
+  <img src="https://skillicons.dev/icons?i=c" width="50"></img>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"></img>
   <img src="https://skillicons.dev/icons?i=html" width="50" />
   <img src="https://skillicons.dev/icons?i=css" width="50" />
   <img src="https://skillicons.dev/icons?i=js" width="50" />

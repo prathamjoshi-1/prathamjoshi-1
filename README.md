@@ -1,11 +1,9 @@
 # 💫 About Me
 
-<p align="center">
-  <img src="https://via.placeholder.com/200x200?text=Content+Unavailable" width="200" />
-</p>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6t6Xo5kE3x7s8/giphy.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/refs/heads/main/mygif.gif" width="500"/>
 </p>
 
 <p align="center">

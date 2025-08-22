@@ -1,9 +1,7 @@
 # 💫 About Me
 
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/refs/heads/main/mygif.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -22,60 +20,40 @@ Hi 👋, I'm **Pratham Joshi**
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pratham-joshi-64007a344) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/@MrPrathamjoshi1) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Mr.prathamjoshi1@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23006500.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/mrprathamjoshi1/) 
-[![GreekForGreek](https://img.shields.io/badge/GreekForGreek-%23345D7E.svg?logo=greekforgreek&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/mrprathake2o/)
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pratham-joshi-64007a344) 
+[![X](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/@MrPrathamjoshi1) 
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Mr.prathamjoshi1@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/mrprathamjoshi1/) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/mrprathake2o/)
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="50"></img>
-  <img src="https://skillicons.dev/icons?i=cpp" width="50"></img>
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
-  <img src="https://skillicons.dev/icons?i=vite" width="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-  <img src="https://skillicons.dev/icons?i=redux" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <img src="https://skillicons.dev/icons?i=arduino" width="50" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
-  <img src="https://skillicons.dev/icons?i=flask" width="50" />
-  <img src="https://skillicons.dev/icons?i=figma" width="50" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,vite,bootstrap,tailwind,nodejs,express,mongodb,redux,python,arduino,fastapi,flask,figma" width="600"/>
 </p>
-
-
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/refs/heads/main/mygif2.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif2.gif" width="500"/>
 </p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&theme=radical&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight" />
 <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamjoshi-1&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight" />
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=tokyonight&no-bg=true&margin-w=15" />
 </p>
 
 ---
-

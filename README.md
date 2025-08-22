@@ -79,7 +79,7 @@ Hi 👋, I'm **Pratham Joshi**
 ---
 
 ## 🏅 Achievements
-- 🏆🥇 **1st Prize Winner** – National-level coding competition 💻🎉  
+- 🏆🥇 **1st Prize Winner** – coding competition 💻🎉  
 - 💻🚀 Built **3 major electronics projects** & **5+ web applications** 🌐  
 - 🌟💯 **Top Contributor** – GeeksforGeeks & LeetCode for problem-solving excellence 🔹  
 - 🎖️💡 Recognized for innovation and practical implementation in embedded systems & web dev ⚡🔧

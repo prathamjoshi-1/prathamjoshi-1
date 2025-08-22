@@ -95,18 +95,7 @@ Hi 👋, I'm **Pratham Joshi**
 <br>
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight" />
 <br>
-
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=donut&theme=merko&langs_count=10&bg_color=0d1117&border_color=30363d" alt="Top Languages Circular Graph" />
-
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=donut&theme=tokyonight&langs_count=10&bg_color=0d1117&border_color=30363d" alt="Top Languages Circular Graph" />
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=donut&theme=tokyonight&langs_count=10&bg_color=0d1117&border_color=30363d" alt="Top Languages Circular Graph" />
 </p>
 
 

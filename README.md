@@ -31,61 +31,29 @@ Hi 👋, I'm **Pratham Joshi**
 
 ## 💻 Tech Stack
 <p align="center">
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=c" width="50" /><br>C
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=cpp" width="50" /><br>C++
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=html" width="50" /><br>HTML
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=css" width="50" /><br>CSS
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=js" width="50" /><br>JavaScript
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=react" width="50" /><br>React
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=vite" width="50" /><br>Vite
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" /><br>Bootstrap
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" /><br>Tailwind
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" /><br>Node.js
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=express" width="50" /><br>Express
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="50" /><br>MongoDB
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=redux" width="50" /><br>Redux
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=python" width="50" /><br>Python
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=arduino" width="50" /><br>Arduino
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="50" /><br>FastAPI
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=flask" width="50" /><br>Flask
-  </div>
-  <div style="display:inline-block; text-align:center; margin:0 10px;">
-    <img src="https://skillicons.dev/icons?i=figma" width="50" /><br>Figma
-  </div>
+<img src="https://skillicons.dev/icons?i=c" width="40"></img>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" width="40"></img>&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redux" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=arduino" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="40" />&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="40" />
+
+  
 </p>
+
+
 
 
 ---

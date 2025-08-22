@@ -31,23 +31,23 @@ Hi 👋, I'm **Pratham Joshi**
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="50"></img>
-  <img src="https://skillicons.dev/icons?i=cpp" width="50"></img>
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" />
-  <img src="https://skillicons.dev/icons?i=vite" width="50" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
-  <img src="https://skillicons.dev/icons?i=express" width="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
-  <img src="https://skillicons.dev/icons?i=redux" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" />
-  <img src="https://skillicons.dev/icons?i=arduino" width="50" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
-  <img src="https://skillicons.dev/icons?i=flask" width="50" />
+  <img src="https://skillicons.dev/icons?i=c" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" width="50" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="50" />
 </p>
 

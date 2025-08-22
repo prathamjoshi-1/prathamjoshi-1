@@ -49,36 +49,69 @@ Hi 👋, I'm **Pratham Joshi**
 <img src="https://skillicons.dev/icons?i=fastapi" width="40" />&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=flask" width="40" />&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=figma" width="40" />
-
-  
 </p>
-
-
-
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif2.gif" width="500"/>
-</p>
+## 🏗️ Projects
+- 🤖✨ **AI Prompt-Based Website Generator** – Built with **Flask & ESP8266**, generates websites automatically from AI prompts.  
+- 💡⚡ **Anti-Blast Lighting System** – Embedded system for industrial safety and automation.  
+- 🛰️🔧 **LTBus Landmine System** – Microcontroller-based landmine detection project.  
+- 🔥🤖 **Fire Fighting Robot** – Arduino-powered robot for automatic fire detection and extinguishing.  
+
+---
+
+## 💼 Professional Experience
+- 🏭🔌 **Internship at Hindustan Unilever Limited, Khamgaon** – Gained hands-on experience with:  
+  - PLC, SCADA, HMI (Human Machine Interface) 🖥️  
+  - OPC, SPC, VFD, Motor Starters (DOL/Star-Delta) ⚙️  
+  - DFOS (Digital Factory Operating System) 🏢  
+  - Peripheral connections & electronics concepts 🔧🔋  
+- 💻🌐 **Web Development Projects** – HTML, CSS, JavaScript, React ⚛️, Redux, Bootstrap, TailwindCss, Node.js 🔹, Express.js, MongoDB 🍃  
+
+---
+
+## 🎓 Certifications
+- 📜🌟 **Frontend Development** – HTML, CSS, JavaScript, React ⚛️  
+- 📊💡 **Data Structures & Algorithms** – Problem-solving & optimization  
+- ⚡🛠️ **Embedded Systems** – Arduino, Microcontrollers, Industrial Applications  
+
+---
+
+## 🏅 Achievements
+- 🏆🥇 **1st Prize Winner** – National-level coding competition 💻🎉  
+- 💻🚀 Built **3 major electronics projects** & **5+ web applications** 🌐  
+- 🌟💯 **Top Contributor** – GeeksforGeeks & LeetCode for problem-solving excellence 🔹  
+- 🎖️💡 Recognized for innovation and practical implementation in embedded systems & web dev ⚡🔧
+
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight" />
 <br>
-  <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight" />
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
-
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&column=4&margin-w=20&margin-h=20" width="100%" />
 </p>
 
+---
+
+## 🌱 Hobbies
+- Badminton 🏸, Swimming 🏊‍♂️, Fitness 💪  
+- Tea lover 🍵, Tech reading 📚  
 
 ---
+
+## 🤝 Open Source Contributions
+- Contributed to **React, Tailwind, and Arduino open source projects**.  
+- Collaborated on **full-stack web projects** with GitHub community.  
+
+---
+

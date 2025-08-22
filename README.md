@@ -84,6 +84,8 @@ Hi 👋, I'm **Pratham Joshi**
 <p align="center">
   <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/refs/heads/main/mygif3.gif" width="500"/>
 </p>
+
+---
 ## 🏅 Achievements
 - 🏆🥇 **1st Prize Winner** – coding competition 💻🎉  
 - 💻🚀 Built **3 major electronics projects** & **5+ web applications** 🌐  

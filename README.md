@@ -88,6 +88,18 @@ Hi 👋, I'm **Pratham Joshi**
 - 🌟💯 **Top Contributor** – GeeksforGeeks & LeetCode for problem-solving excellence 🔹  
 - 🎖️💡 Recognized for innovation and practical implementation in embedded systems & web dev ⚡🔧
 
+---
+
+## 🏆 Events & Achievements
+
+- 🤖 **Robothon** – Reached **Final Phase**  
+  🏢 Organized by **Electrosoft Pvt Ltd** at Sant Gadge Baba Amravati University.  
+  🏅 Achievement: Finalist in university-level robotics competition.
+
+- 💡 **Eureka! – Asia's Largest Business Model Competition**  
+  🌏 Organized by **Eureka Education**  
+  🥇 Achievement: Participated in a prestigious business model competition.
+---
 
 ## 📊 GitHub Stats
 <p align="center">

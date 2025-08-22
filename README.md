@@ -31,7 +31,24 @@ Hi 👋, I'm **Pratham Joshi**
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,vite,bootstrap,tailwind,nodejs,express,mongodb,redux,python,arduino,fastapi,flask,figma" width="600"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50"></img>
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"></img>
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+  <img src="https://skillicons.dev/icons?i=redux" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
+  <img src="https://skillicons.dev/icons?i=flask" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />
 </p>
 
 ---
@@ -51,9 +68,12 @@ Hi 👋, I'm **Pratham Joshi**
 
 ---
 
+
+
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=tokyonight&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&column=3&margin-w=20&margin-h=20" width="95%" />
 </p>
+
 
 ---

@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif.gif" width="500"/>
 </p>
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="500" alt="Slide Up Animation"/>
 </p>
@@ -78,10 +79,11 @@ Hi 👋, I'm **Pratham Joshi**
 ## 🎓 Certifications
 - 📜🌟 **Frontend Development** – HTML, CSS, JavaScript, React ⚛️  
 - 📊💡 **Data Structures & Algorithms** – Problem-solving & optimization  
-- ⚡🛠️ **Embedded Systems** – Arduino, Microcontrollers, Industrial Applications  
-
+- ⚡🛠️ **Embedded Systems** – Arduino, Microcontrollers, Industrial Applications
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/refs/heads/main/mygif3.gif" width="500"/>
+</p>
 ## 🏅 Achievements
 - 🏆🥇 **1st Prize Winner** – coding competition 💻🎉  
 - 💻🚀 Built **3 major electronics projects** & **5+ web applications** 🌐  

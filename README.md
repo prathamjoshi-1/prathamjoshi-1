@@ -53,6 +53,10 @@ Hi 👋, I'm **Pratham Joshi**
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif2.gif" width="500"/>
+</p>
+
 ## 🏗️ Projects
 - 🤖✨ **AI Prompt-Based Website Generator** – Built with **Flask & ESP8266**, generates websites automatically from AI prompts.  
 - 💡⚡ **Anti-Blast Lighting System** – Embedded system for industrial safety and automation.  

@@ -99,6 +99,9 @@ Hi 👋, I'm **Pratham Joshi**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=donut&theme=merko&hide_border=true&langs_count=10&bg_color=0d1117" alt="Top Languages Circular Graph" />
 
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=donut&theme=merko&langs_count=10&bg_color=0d1117&border_color=30363d" alt="Top Languages Circular Graph" />
+
+
 
 
 </p>

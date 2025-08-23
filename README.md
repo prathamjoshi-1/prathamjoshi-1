@@ -74,7 +74,7 @@ Hi 👋, I'm **Pratham Joshi**
   - OPC, SPC, VFD, Motor Starters (DOL/Star-Delta) ⚙️  
   - DFOS (Digital Factory Operating System) 🏢  
   - Peripheral connections & electronics concepts 🔧🔋  
-- 💻🌐 **Web Development Projects** – HTML, CSS, JavaScript, React ⚛️, Redux, Bootstrap, TailwindCss, Node.js 🔹, Express.js, MongoDB 🍃  
+- 💻🌐 **Web Development Projects** –  🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React, 🔄 Redux, 📦 Bootstrap, 🌬️ TailwindCSS, 🔹 Node.js, 🚂 Express.js, 🍃 MongoDB 
 
 ---
 

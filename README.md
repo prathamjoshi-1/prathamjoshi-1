@@ -78,7 +78,8 @@ Hi 👋, I'm **Pratham Joshi**
 </p>
 
 
-#  My Contributions
+📊 My GitHub Contributions
+ 
 <p align="center">
  
 <picture>

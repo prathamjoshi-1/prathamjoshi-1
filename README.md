@@ -68,6 +68,30 @@ Hi 👋, I'm **Pratham Joshi**
 </p>
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight" />
+<br>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight" />
+</p>
+
+
+#  My Contributions
+<p align="center">
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_light.svg">
+  <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
+</picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-dark&area=true&point=72DF89" alt="GitHub Activity Graph">
+</p>
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif2.gif" width="500"/>
@@ -118,31 +142,6 @@ Hi 👋, I'm **Pratham Joshi**
 - 💡 **Eureka! – Asia's Largest Business Model Competition**  
   🌏 Organized by **Eureka Education**  
   🥇 Achievement: Participated in a prestigious business model competition.
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight" />
-</p>
-
-
-#  My Contributions
-<p align="center">
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_light.svg">
-  <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
-</picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-dark&area=true&point=72DF89" alt="GitHub Activity Graph">
-</p>
 ---
 
 ## 🏆 GitHub Trophies

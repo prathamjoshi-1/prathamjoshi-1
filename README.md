@@ -127,11 +127,10 @@ Hi 👋, I'm **Pratham Joshi**
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight" />
-
 </p>
----
-#  My Contributions
 
+
+#  My Contributions
 <p align="center">
  
 <picture>

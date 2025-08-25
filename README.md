@@ -152,12 +152,6 @@ Hi 👋, I'm **Pratham Joshi**
   <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&column=4&margin-w=20&margin-h=20" width="100%" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true" width="100%" />
-</p>
 ---
 
 ## 🌱 Hobbies

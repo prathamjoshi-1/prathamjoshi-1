@@ -1,6 +1,7 @@
 
 
-
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight"/>
+<br>
 
 # 💫 About Me
 

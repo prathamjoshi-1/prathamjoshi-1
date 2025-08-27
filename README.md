@@ -1,4 +1,42 @@
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+# 📊 My Contribution:
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_light.svg">
+  <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
+</picture>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20activity%20this%20month&hide_border=true&theme=github-compact&area=true&point=72DF89">
+</p>
+
+# 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pratham-joshi-64007a344)  
+[![X](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/@MrPrathamjoshi1)  
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Mr.prathamjoshi1@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/mrprathamjoshi1/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/mrprathake2o/)  
+[![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-FF6F00?logo=codingninjas&logoColor=white&style=for-the-badge)](https://www.codingninjas.com/users/prathamjoshi)
 # 💫 About Me
 
 <p align="center">
@@ -77,8 +115,6 @@ Hi 👋, I'm **Pratham Joshi**
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight&cache_seconds=3600" />
-
-
 </p>
 
 

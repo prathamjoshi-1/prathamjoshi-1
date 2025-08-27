@@ -42,6 +42,7 @@ Hi 👋, I'm **Pratham Joshi**
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Mr.prathamjoshi1@gmail.com)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/mrprathamjoshi1/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/mrprathake2o/)  
+[![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-FF6F00?logo=codingninjas&logoColor=white&style=for-the-badge)](https://www.codingninjas.com/codestudio/profile/12345)
 [![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-FF6F00?logo=codingninjas&logoColor=white&style=for-the-badge)](https://www.codingninjas.com/users/prathamjoshi)
 
 # 💻 Tech Stack:
@@ -69,10 +70,12 @@ Hi 👋, I'm **Pratham Joshi**
 ---
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight&cache_seconds=3600" />
-<br>
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight "/>
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight&cache_seconds=3600" />
+<br>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight&cache_seconds=3600" />
 </p>

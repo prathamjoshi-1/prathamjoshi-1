@@ -1,8 +1,5 @@
 
 
-<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight"/>
-<br>
-
 # 💫 About Me
 
 <p align="center">
@@ -74,7 +71,7 @@ Hi 👋, I'm **Pratham Joshi**
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight&cache_seconds=3600" />
 <br>
-<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight&cache_seconds=3600 "/>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight&cache_seconds=3600" />

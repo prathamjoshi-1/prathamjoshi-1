@@ -49,6 +49,7 @@ Hi 👋, I'm **Pratham Joshi**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Object Oriented Programming](https://img.shields.io/badge/Object-Oriented%20Programming-%230073C9.svg?style=for-the-badge&logo=programming&logoColor=white)
+![Object Oriented Programming](https://img.shields.io/badge/Object-Oriented%20Programming-%230073C9?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-%23FF6F00.svg?style=for-the-badge&logo=esp8266&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23007ACC.svg?style=for-the-badge&logo=esp32&logoColor=white)

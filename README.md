@@ -48,7 +48,6 @@ Hi 👋, I'm **Pratham Joshi**
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OOP](https://img.shields.io/badge/OBJECT%20ORIENTED%20PROGRAMMING-FFA07A?style=for-the-badge&logoColor=black)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-%23FF6F00.svg?style=for-the-badge&logo=esp8266&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23007ACC.svg?style=for-the-badge&logo=esp32&logoColor=white)
@@ -68,10 +67,6 @@ Hi 👋, I'm **Pratham Joshi**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Computer Networking](https://img.shields.io/badge/Computer%20Networking-%23007ACC.svg?style=for-the-badge&logo=networking&logoColor=white)
-![Digital Electronics](https://img.shields.io/badge/Digital%20Electronics-%2300BFFF.svg?style=for-the-badge&logo=electronics&logoColor=white)
-![Electronics Devices & Circuits](https://img.shields.io/badge/Electronics%20Devices%20%26%20Circuits-%23FF5733.svg?style=for-the-badge&logo=circuit-diagram&logoColor=white)
-![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-%23008000.svg?style=for-the-badge&logo=industrial&logoColor=white)
 
 
 ---

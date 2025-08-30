@@ -97,6 +97,13 @@ Hi 👋, I'm **Pratham Joshi**
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+ <p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&column=4&margin-w=20&margin-h=20" width="200%" />
+</p>
+
+---
 <p align="center">
   <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif2.gif" width="500"/>
 </p>
@@ -148,12 +155,7 @@ Hi 👋, I'm **Pratham Joshi**
   🥇 Achievement: Participated in a prestigious business model competition.
 ---
 
-## 🏆 GitHub Trophies
- <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&column=4&margin-w=20&margin-h=20" width="200%" />
-</p>
 
----
 
 ## 🌱 Hobbies
 - Badminton 🏸, Swimming 🏊‍♂️, Fitness 💪  

@@ -80,6 +80,7 @@ Hi 👋, I'm **Pratham Joshi**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=tokyonight&cache_seconds=3600" />
 </p>
 
+---
 
 ## 📊 My GitHub Contributions
  

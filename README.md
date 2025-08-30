@@ -42,6 +42,7 @@ Hi 👋, I'm **Pratham Joshi**
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/mrprathake2o/)  
 [![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-FF6F00?logo=codingninjas&logoColor=white&style=for-the-badge)](https://www.codingninjas.com/codestudio/profile/prathamjoshi)
 
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

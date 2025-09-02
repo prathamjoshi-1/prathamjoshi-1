@@ -17,11 +17,6 @@
   <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif.gif" width="500"/>
 </p>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="500" alt="Slide Up Animation"/>
-</p>
-
 Hi 👋, I'm **Pratham Joshi**  
 🎯 A passionate **Frontend Developer** & **Tech Enthusiast** from India.  
 

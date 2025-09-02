@@ -102,7 +102,7 @@ Hi 👋, I'm **Pratham Joshi**
 
 ## 🏆 GitHub Trophies
  <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&column=1&margin-w=20&margin-h=20" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=gruvbox&column=7&margin-w=20&margin-h=20" width="100%" />
 </p>
 
 ---

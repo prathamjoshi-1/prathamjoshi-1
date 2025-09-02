@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathamjoshi-1&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamjoshi-1&theme=tokyonight"/>

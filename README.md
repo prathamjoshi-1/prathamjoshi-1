@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
 # 💫 About Me
 
 <p align="center">

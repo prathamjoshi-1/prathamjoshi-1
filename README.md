@@ -135,6 +135,8 @@ width="900" height="900">
   ![ESP8266](https://img.shields.io/badge/ESP8266-%23FF6F00.svg?style=flat&logo=esp8266)
   ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat&logo=openai)
 - 💡⚡ **Anti-Blast Lighting System** – Embedded system for industrial safety and automation.  
+[RF](https://img.shields.io/badge/RF-%23008080.svg?style=flat&logo=signal) 
+  ![EmbeddedC](https://img.shields.io/badge/Embedded%20C-%2300C7B7.svg?style=flat&logo=c)
 - 🛰️🔧 **LTBus Landmine System** – Microcontroller-based landmine detection project.  
 - 🔥🤖 **Fire Fighting Robot** – Arduino-powered robot for automatic fire detection and extinguishing.  
 - 🤖 [Fire Fighting Robot](https://github.com/prathamjoshi-1/Fire-Detecting-Notifying-Fighting-Robot)  

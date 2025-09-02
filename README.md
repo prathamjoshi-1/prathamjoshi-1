@@ -1,5 +1,6 @@
+## 💻 Tech Toolbox
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,react,nodejs,express,mongodb,tailwind,bootstrap,python,flask,fastapi,git,github,figma,vite" />
 </p>
 # 💫 About Me
 

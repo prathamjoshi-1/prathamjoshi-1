@@ -1,17 +1,4 @@
 
-
-- 🔥 [AI Prompt Website Generator](https://github.com/prathamjoshi-1/AI-Prompt-Based-Website-Generator-using-ESP8266-Flask)  
-  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask) 
-  ![ESP8266](https://img.shields.io/badge/ESP8266-%23FF6F00.svg?style=flat&logo=esp8266)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-%23000000.svg?style=flat&logo=openai)
-
-- 🤖 [Fire Fighting Robot](https://github.com/prathamjoshi-1/Fire-Detecting-Notifying-Fighting-Robot)  
-  ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino) 
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus)
-
-- ⚡ [Anti-Blast System](https://github.com/prathamjoshi-1/antiblast-system)  
-  ![RF](https://img.shields.io/badge/RF-%23008080.svg?style=flat&logo=signal) 
-  ![EmbeddedC](https://img.shields.io/badge/Embedded%20C-%2300C7B7.svg?style=flat&logo=c)
 # 💫 About Me
 
 <p align="center">

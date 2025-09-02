@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamjoshi-1&theme=tokyonight"/>
 </p>
+
 ## 🚀 Featured Projects
 - 🔥 [AI Prompt Website Generator](https://github.com/prathamjoshi-1/ai-webgen)  
   ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask) 

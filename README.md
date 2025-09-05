@@ -1,6 +1,6 @@
 # 💫 About Me
 
-<p align="center">gggh
+<p align="center">
   <!-- Dark Mode -->
   <a href="https://github.com/prathamjoshi-1?tab=repositories&theme=dark" target="_blank">
     <img src="https://img.shields.io/badge/Dark%20Mode-000000?style=for-the-badge&logo=github&logoColor=white" alt="Dark Mode"/>

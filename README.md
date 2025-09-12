@@ -1,4 +1,4 @@
-giyvbi# 💫 About Me
+# 💫 About Me
 
 <p align="center">
   <!-- Dark Mode -->

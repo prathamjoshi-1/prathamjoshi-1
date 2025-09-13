@@ -66,7 +66,7 @@ Hi 👋, I'm **Pratham Joshi**
 ---
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=merko"/>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=tokyonight&cache_seconds=3600" />

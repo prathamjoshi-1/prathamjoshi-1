@@ -90,7 +90,7 @@ Hi 👋, I'm **Pratham Joshi**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-dark&area=true&point=72DF89" alt="GitHub Activity Graph"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-dracula&area=true&point=72DF89" alt="GitHub Activity Graph"
 width="900" height="900">
 </p>
 

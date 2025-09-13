@@ -92,7 +92,7 @@ Hi 👋, I'm **Pratham Joshi**
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=drakula&cache_seconds=3600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=dracula&cache_seconds=3600" />
 </p>
 
 ---

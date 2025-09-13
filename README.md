@@ -83,14 +83,14 @@ Hi 👋, I'm **Pratham Joshi**
 ---
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=dracula"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=highcontrast"/>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=dracula&cache_seconds=3600" />
+<img src="https://github-readme-stats.vercel.app/api?username=prathamjoshi-1&show_icons=true&theme=highcontrast&cache_seconds=3600" />
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=dracula&cache_seconds=3600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=highcontrast&cache_seconds=3600" />
 </p>
 
 ---

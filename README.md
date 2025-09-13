@@ -1,3 +1,22 @@
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=default"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=dark"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=highcontrast"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=transparent"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=merko"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=gruvbox"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=gruvbox-duo"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=tokyonight-duo"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=onedark"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=onedark-duo"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=cobalt"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=synthwave"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=dracula"/>
+
+
+
+
 # 💫 About Me
 
 <p align="center">

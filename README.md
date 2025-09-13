@@ -1,18 +1,3 @@
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=default&area=true&point=72DF89" alt="GitHub Activity Graph - default" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=react&area=true&point=72DF89" alt="GitHub Activity Graph - react" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=react-dark&area=true&point=72DF89" alt="GitHub Activity Graph - react-dark" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github&area=true&point=72DF89" alt="GitHub Activity Graph - github" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-compact&area=true&point=72DF89" alt="GitHub Activity Graph - github-compact" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=xcode&area=true&point=72DF89" alt="GitHub Activity Graph - xcode" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=rogue&area=true&point=72DF89" alt="GitHub Activity Graph - rogue" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=merko&area=true&point=72DF89" alt="GitHub Activity Graph - merko" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=vue&area=true&point=72DF89" alt="GitHub Activity Graph - vue" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-dark&area=true&point=72DF89" alt="GitHub Activity Graph - github-dark" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-dark-blue&area=true&point=72DF89" alt="GitHub Activity Graph - github-dark-blue" width="900" height="900">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamjoshi-1&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github-dracula&area=true&point=72DF89" alt="GitHub Activity Graph - github-dracula" width="900" height="900">
-
-
-
 # 💫 About Me
 
 <p align="center">

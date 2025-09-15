@@ -96,7 +96,7 @@ Hi 👋, I'm **Pratham Joshi**
 
 ## 🚀 Visitors Map
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamjoshi-1&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamjoshi-1&theme=dark"/>
 </p>
 
 ---

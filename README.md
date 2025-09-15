@@ -1,4 +1,4 @@
-hegweyhehehehhey# 💫 About Me
+hwhegweyhehehehhey# 💫 About Me
 
 <p align="center">
   <!-- Dark Mode -->

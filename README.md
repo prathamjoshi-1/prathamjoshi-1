@@ -1,6 +1,6 @@
 <!-- Default Themes -->
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=default"/>
-<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>"/>
+<img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=highcontrast"/>
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=transparent"/>
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=radical"/>

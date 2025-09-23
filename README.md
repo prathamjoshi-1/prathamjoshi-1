@@ -129,13 +129,29 @@ Hi 👋, I'm **Pratham Joshi**
 
 ---
 
-## 💼 Professional Experience
-- 🏭🔌 **Internship at Hindustan Unilever Limited, Khamgaon** – Gained hands-on experience with:  
-  - PLC, SCADA, HMI (Human Machine Interface) 🖥️  
-  - OPC, SPC, VFD, Motor Starters (DOL/Star-Delta) ⚙️  
-  - DFOS (Digital Factory Operating System) 🏢  
-  - Peripheral connections & electronics concepts 🔧🔋  
-- 💻🌐 **Web Development Projects** –  🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React, 🔄 Redux, 📦 Bootstrap, 🌬️ TailwindCSS, 🔹 Node.js, 🚂 Express.js, 🍃 MongoDB 
+# 💼 Professional Experience
+
+# 💻👨‍💻 Full Stack Developer Intern at Emertxe Information Technologies – Working on:
+
+🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React.js, 🔄 Redux
+
+📦 Bootstrap, 🌬️ TailwindCSS
+
+🔹 Node.js, 🚂 Express.js, 🍃 MongoDB
+
+# 🏭🔌 Internship at Hindustan Unilever Limited, Khamgaon – Gained hands-on experience with:
+
+PLC, SCADA, HMI (Human Machine Interface) 🖥️
+
+OPC, SPC, VFD, Motor Starters (DOL/Star-Delta) ⚙️
+
+DFOS (Digital Factory Operating System) 🏢
+
+Peripheral connections & electronics concepts 🔧🔋
+
+# 💻🌐 Web Development Projects –  🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React, 🔄 Redux, 📦 Bootstrap, 🌬️ TailwindCSS, 🔹 Node.js, 🚂 Express.js, 🍃 MongoDB
+
+ 
 
 ---
 

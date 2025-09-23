@@ -131,7 +131,7 @@ Hi 👋, I'm **Pratham Joshi**
 
 # 💼 Professional Experience
 
-# 💻👨‍💻 Full Stack Developer Intern at Emertxe Information Technologies – Working on:
+## 💻👨‍💻 Full Stack Developer Intern at Emertxe Information Technologies – Working on:
 
 🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React.js, 🔄 Redux
 
@@ -139,7 +139,7 @@ Hi 👋, I'm **Pratham Joshi**
 
 🔹 Node.js, 🚂 Express.js, 🍃 MongoDB
 
-# 🏭🔌 Internship at Hindustan Unilever Limited, Khamgaon – Gained hands-on experience with:
+## 🏭🔌 Internship at Hindustan Unilever Limited, Khamgaon – Gained hands-on experience with:
 
 PLC, SCADA, HMI (Human Machine Interface) 🖥️
 

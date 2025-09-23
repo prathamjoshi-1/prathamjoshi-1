@@ -149,7 +149,7 @@ DFOS (Digital Factory Operating System) 🏢
 
 Peripheral connections & electronics concepts 🔧🔋
 
-# 💻🌐 Web Development Projects –  🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React, 🔄 Redux, 📦 Bootstrap, 🌬️ TailwindCSS, 🔹 Node.js, 🚂 Express.js, 🍃 MongoDB
+## 💻🌐 Web Development Projects –  🌐 HTML, 🎨 CSS, ⚡ JavaScript, ⚛️ React, 🔄 Redux, 📦 Bootstrap, 🌬️ TailwindCSS, 🔹 Node.js, 🚂 Express.js, 🍃 MongoDB
 
  
 

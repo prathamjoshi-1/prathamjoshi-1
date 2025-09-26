@@ -64,7 +64,7 @@ Hi 👋, I'm **Pratham Joshi**
 
 
 ---
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=prathamjoshi-1&theme=dark&cache_seconds=3600"/>
 
@@ -77,7 +77,7 @@ Hi 👋, I'm **Pratham Joshi**
 
 ---
 
-## 📊 My GitHub Contributions
+# 📊 My GitHub Contributions
  
 <p align="center">
  
@@ -94,7 +94,7 @@ Hi 👋, I'm **Pratham Joshi**
 
 ---
 
-## 🚀 Visitors Map
+# 🚀 Visitors Map
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamjoshi-1&theme=dark"/>
 </p>
@@ -102,7 +102,7 @@ Hi 👋, I'm **Pratham Joshi**
 ---
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
  <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=prathamjoshi-1&theme=discord&column=3&margin-w=20&margin-h=20" width="100%" />
 </p>
@@ -112,7 +112,7 @@ Hi 👋, I'm **Pratham Joshi**
   <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif2.gif" width="500"/>
 </p>
 
-## 🏗️ Projects
+# 🏗️ Projects
 - 🤖✨ **AI Prompt-Based Website Generator** – Built with **Flask & ESP8266**, generates websites automatically from AI prompts.  
 - 🔥 [AI Prompt Website Generator](https://github.com/prathamjoshi-1/AI-Prompt-Based-Website-Generator-using-ESP8266-Flask)  
   ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask) 
@@ -155,7 +155,7 @@ Peripheral connections & electronics concepts 🔧🔋
 
 ---
 
-## 🎓 Certifications
+# 🎓 Certifications
 - 📜🌟 **Frontend Development** – HTML, CSS, JavaScript, React ⚛️  
 - 📊💡 **Data Structures & Algorithms** – Problem-solving & optimization  
 - ⚡🛠️ **Embedded Systems** – Arduino, Microcontrollers, Industrial Applications
@@ -165,7 +165,7 @@ Peripheral connections & electronics concepts 🔧🔋
 </p>
 
 ---
-## 🏅 Achievements
+# 🏅 Achievements
 - 🏆🥇 **1st Prize Winner** – coding competition 💻🎉  
 - 💻🚀 Built **3 major electronics projects** & **5+ web applications** 🌐  
 - 🌟💯 **Top Contributor** – GeeksforGeeks & LeetCode for problem-solving excellence 🔹  
@@ -173,7 +173,7 @@ Peripheral connections & electronics concepts 🔧🔋
 
 ---
 
-## 🏆 Events & Achievements
+# 🏆 Events & Achievements
 
 - 🤖 **Robothon** – Reached **Final Phase**  
   🏢 Organized by **Electrosoft Pvt Ltd** at Sant Gadge Baba Amravati University.  
@@ -186,13 +186,13 @@ Peripheral connections & electronics concepts 🔧🔋
 
 
 
-## 🌱 Hobbies
+# 🌱 Hobbies
 - Badminton 🏸, Swimming 🏊‍♂️, Fitness 💪  
 - Tea lover 🍵, Tech reading 📚  
 
 ---
 
-## 🤝 Open Source Contributions
+# 🤝 Open Source Contributions
 - Contributed to **React, Tailwind, and Arduino open source projects**.  
 - Collaborated on **full-stack web projects** with GitHub community.  
 

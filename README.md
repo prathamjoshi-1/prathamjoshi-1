@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1 &stats_format=bytes)
 # 💫 About Me
 
 <p align="center">

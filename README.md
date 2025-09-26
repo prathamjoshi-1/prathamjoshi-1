@@ -72,7 +72,7 @@ Hi 👋, I'm **Pratham Joshi**
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=cobalt &cache_seconds=3600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamjoshi-1&layout=compact&theme=cobalt&cache_seconds=3600" />
 </p>
 
 ---

@@ -1,5 +1,5 @@
 # 💫 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&duration=3000&color=ff69b4&lines=Chasing+the+Code+|+Full+Stack+Adventure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&duration=2500&color=ff69b4&lines=Chasing+the+Code+|+Full+Stack+Adventure)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Dark Mode -->

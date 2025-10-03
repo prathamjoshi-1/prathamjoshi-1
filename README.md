@@ -2,6 +2,8 @@
 # 💫 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Electronics+Engineer;Industrial+Automation+Specialist;Full+Stack+Developer)](https://git.io/typing-svg)
+
 <p align="center">
   <!-- Dark Mode -->
   <a href="https://github.com/prathamjoshi-1?tab=repositories&theme=dark" target="_blank">

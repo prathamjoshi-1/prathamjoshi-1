@@ -42,7 +42,8 @@
 
 # 💻 Tech Stack:
 
-[![TypingSVG](https://readme-typing-svg.demolab.com/?size=20&duration=5000&color=00ff00&lines=Tech+Stack)](https://git.io/typing-svg)
+[![Typing
+SVG](https://readme-typing-svg.demolab.com/?size=20&duration=5000&color=00ff00&lines=Tech+Stack)](https://git.io/typing-svg)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)

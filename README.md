@@ -1,6 +1,6 @@
 
 # 💫 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Electronics+Engineer+Industrial+Automation+Specialist+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Electronics+Engineer+|+Automation+|+Full+Stack+Dev)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Dark Mode -->

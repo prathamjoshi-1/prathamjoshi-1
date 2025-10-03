@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=18&duration=3000&color=ff69b4&lines=Chasing+the+Code+|+Full+Stack+Adventure)](https://git.io/typing-svg)
 # 💫 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&duration=3000&color=00ff00&lines=Journey+to+become+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&duration=3000&color=ff69b4&lines=Chasing+the+Code+|+Full+Stack+Adventure)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Dark Mode -->
@@ -19,8 +18,8 @@
   <img src="https://raw.githubusercontent.com/prathamjoshi-1/prathamjoshi-1/main/mygif.gif" width="500"/>
 </p>
 
-Hi 👋, I'm **Pratham Joshi**  
-🎯 A passionate **Frontend Developer** & **Tech Enthusiast** from India.  
+# Hi 👋, I'm **Pratham Joshi**  
+## 🎯 A passionate **Frontend Developer** & **Tech Enthusiast** from India.  
 
 - 🔭 Currently working on **AI-Powered Industrial Automation System**  
 - 🌱 Learning **Full Stack Development**  

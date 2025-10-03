@@ -1,6 +1,6 @@
 
 # 💫 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=18&duration=3000&color=00ff00&lines=Journey+to+become+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&duration=3000&color=00ff00&lines=Journey+to+become+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- Dark Mode -->

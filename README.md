@@ -22,7 +22,8 @@
 
 ---
 
-## Full Stack Developer Intern @Emertxe | React.js | Node.js | Express | MongoDB | & Ex-Industrial Automation Intern @Hindustan Unilever Ltd | PLC | SCADA | HMI | DFOS | @ Software & Automation.
+Full Stack Developer Intern @Emertxe | React.js | Node.js | Express | MongoDB | & Ex-Industrial Automation Intern @Hindustan Unilever Ltd | PLC | SCADA | HMI | DFOS | @ Software & Automation.
+
 ---
 
 # 🌐 Connect with Me  

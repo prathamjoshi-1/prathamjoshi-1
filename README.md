@@ -19,15 +19,10 @@
 </p>
 
 # Hi 👋, I'm **Pratham Joshi**  
-## 🎯 A passionate **Frontend Developer** & **Tech Enthusiast** from India.  
 
-- 🔭 Currently working on **AI-Powered Industrial Automation System**  
-- 🌱 Learning **Full Stack Development**  
-- 💡 Interested in **React, Node.js, and Cloud Technologies**  
-- 📫 Reach me at **mr.prathamjoshi1@gmail.com**  
+---
 
-✨ Always curious, always learning, always building 🚀  
-
+## Full Stack Developer Intern @Emertxe | React.js | Node.js | Express | MongoDB | & Ex-Industrial Automation Intern @Hindustan Unilever Ltd | PLC | SCADA | HMI | DFOS | @ Software & Automation.
 ---
 
 # 🌐 Connect with Me  
@@ -39,6 +34,7 @@
 [![Coding Ninjas](https://img.shields.io/badge/CodingNinjas-FF6F00?logo=codingninjas&logoColor=white&style=for-the-badge)](https://www.codingninjas.com/codestudio/profile/prathamjoshi)
 
 ---
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

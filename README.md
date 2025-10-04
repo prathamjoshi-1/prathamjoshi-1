@@ -26,8 +26,6 @@ Full Stack Developer Intern @Emertxe | React.js | Node.js | Express | MongoDB | 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=19&duration=3000&color=00ff00&lines=Connect+with+me)](https://git.io/typing-svg)
-
 # 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/pratham-joshi-64007a344)  
 [![X](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/@MrPrathamjoshi1)  

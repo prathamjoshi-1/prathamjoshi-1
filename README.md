@@ -1,6 +1,6 @@
 # 💫 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&color=95bb72&lines=CHASING+THE+CODE+|+FULL+STACK+ADVENTURE)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&color=febfa1&lines=EMBEDDED+SYSTEM+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&color=7cfc00&lines=EMBEDDED+SYSTEM+ENTHUSIAST)](https://git.io/typing-svg)
 
 
 <p align="center">

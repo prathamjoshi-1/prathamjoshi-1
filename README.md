@@ -1,6 +1,8 @@
 # 💫 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&color=ff69b4&lines=FULL+STACK+ADVENTURE+|+Embedded+System+Enthusiast)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=16&duration=5000&color=ff69b4&lines=FULL+STACK+ADVENTURE+|+Embedded+System+Enthusiast)](https://git.io/typing-svg)
+
 <p align="center">
   <!-- Dark Mode -->
   <a href="https://github.com/prathamjoshi-1?tab=repositories&theme=dark" target="_blank">
